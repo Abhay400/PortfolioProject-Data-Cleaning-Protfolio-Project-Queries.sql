@@ -148,3 +148,7 @@ DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress
 
 ALTER TABLE [Portfolio Project].dbo.NashvillHousing
 DROP COLUMN SaleDate
+
+-- Check The Final Result Table
+Select * 
+From HousingProject..NashvilleHousing
