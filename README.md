@@ -1,6 +1,6 @@
 # PortfolioProject-Data-Cleaning-Protfolio-Project-Queries.sql
 
-
+![9 Best Places To Visit In New York City In 2020](https://user-images.githubusercontent.com/106580702/231855741-c39caa48-9383-480f-90f7-d8cfd048a8be.jpg)
 
 This case study focuses on data cleaning techniques using SQL queries. The dataset used for this project 
 contains over 56,000 rows of data on the Nashville housing market between 2013 and 2016, and is available on Kaggle.
