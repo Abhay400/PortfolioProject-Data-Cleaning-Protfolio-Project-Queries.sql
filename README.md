@@ -1,5 +1,5 @@
 # PortfolioProject-Data-Cleaning-Protfolio-Project-Queries.sql
-![Uploading 9 Best Places To Visit In New York City In 2020.png…]()
+
 
 
 This case study focuses on data cleaning techniques using SQL queries. The dataset used for this project 
