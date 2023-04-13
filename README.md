@@ -2,21 +2,18 @@
 
 ![9 Best Places To Visit In New York City In 2020](https://user-images.githubusercontent.com/106580702/231855741-c39caa48-9383-480f-90f7-d8cfd048a8be.jpg)
 
-This case study focuses on data cleaning techniques using SQL queries. The dataset used for this project 
-contains over 56,000 rows of data on the Nashville housing market between 2013 and 2016, and is available on Kaggle.
+This case study showcases the importance of data cleaning in preparing datasets for accurate analysis. By using SQL queries, we were able to apply a variety of techniques to standardize, fill in missing values, split columns, remove duplicates, and delete unwanted columns.
 
 To clean and prepare the data for analysis, we have performed the following tasks:
 
-1- Standardized the date format across all rows.
+1-Standardizing date format enabled accurate comparisons across all data rows.
+2-Filling in NULL values was essential to ensure a complete and accurate dataset for meaningful analysis.
+3-Splitting addresses into separate columns improved readability and allowed for more detailed exploration of the data.
+4-Removing duplicate rows was crucial in ensuring dataset uniqueness and accuracy, which is particularly important in financial data analysis.
+5-Deleting unwanted columns focused the analysis on the most relevant data.
+6-Data cleaning techniques improve dataset quality and preparation for accurate analysis.
+7-A clean and well-structured dataset facilitates more accurate analysis and saves time and resources in the long run.
 
-2- Filled in NULL values in certain columns to ensure that all data is complete and accurate.
-
-3- Split the addresses into separate columns for easier readability.
-
-4- Removed duplicate rows to ensure that the data is unique and accurate.
-
-5- Deleted unwanted columns that are not relevant to our analysis.
-
-Through this process, we have gained valuable experience in applying data cleaning techniques to real-world data,
- and have prepared the dataset for further analysis. The final product is a clean and well-structured dataset that
- is ready for further analysis and exploration.
+Overall, this project demonstrates how data cleaning techniques can be applied to real-world datasets to improve their 
+quality and prepare them for analysis. A clean and well-structured dataset not only facilitates more accurate analysis
+but also saves time and resources in the long run.
