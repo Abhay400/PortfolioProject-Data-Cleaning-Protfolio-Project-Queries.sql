@@ -1,4 +1,4 @@
-# PortfolioProject-Data-Cleaning-Protfolio-Project-Queries.sql
+# PortfolioProject-Data-Cleaning-Protfolio-Project-Queries.sql   ( Click on the Portfolio 2) above
 
 ![9 Best Places To Visit In New York City In 2020](https://user-images.githubusercontent.com/106580702/231855741-c39caa48-9383-480f-90f7-d8cfd048a8be.jpg)
 
